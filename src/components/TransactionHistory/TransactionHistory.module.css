@@ -1,0 +1,20 @@
+.table {
+  text-align: center;
+  font-size: 20px;
+}
+
+.thead {
+  background-color: #ffff00;
+}
+
+.thead th {
+  padding: 5px;
+}
+
+.tbody {
+  background-color: #f0e68c;
+}
+
+.tbody td {
+  padding: 5px;
+}

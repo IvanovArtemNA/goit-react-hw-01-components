@@ -1,0 +1,26 @@
+.statistics {
+  padding-top: 10px;
+  min-width: 500px;
+
+  font-size: 26px;
+  text-align: center;
+
+  background-color: #00bfff;
+}
+
+.list {
+  display: flex;
+  margin-top: 10px;
+
+  background-color: #7b68ee;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  width: calc(100% / 5);
+
+  font-weight: 500;
+
+  border: 1px solid #0000ff;
+}

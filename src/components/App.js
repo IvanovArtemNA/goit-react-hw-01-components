@@ -15,6 +15,7 @@ export const App = () => {
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
+        gap: '100px',
         fontSize: 40,
         color: '#010101',
       }}
